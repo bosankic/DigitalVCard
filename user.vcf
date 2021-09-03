@@ -1,9 +1,10 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Amar;Bosankić;;;
-FN: Bosankić  Amar 
-ORG:Step2Digital;
-TITLE:Front-end Developer\nDigital Marketing
-EMAIL;type=INTERNET;type=WORK;type=pref:bosanka718@gmail.com
-TEL;type=WORK;type=VOICE:+387603272616
+FN;CHARSET=UTF-8:Amar Bosankić
+N;CHARSET=UTF-8:Bosankić;Amar;;;
+GENDER:M
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:bosanka718@gmail.com
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:bosanka718@icloud.com
+TEL;TYPE=HOME,VOICE:+387603272616
+REV:2021-09-03T10:38:47.895Z
+END:VCARD
