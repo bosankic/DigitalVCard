@@ -2,36 +2,66 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Digitalna Web Kartica - Amar Bosankić</title>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://kit.fontawesome.com/a81368914c.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Poppins:wght@100;200;300;400;500;600;700&display=swap" rel="stylesheet">    
+   
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+    <title>Profile Card</title>
 </head>
 <body>
     <div class="container">
-        <div class="container-top">
-            <div class="image">
-                <img src="assets/profile-pic.jpg" alt="" />
+        <div class="card">
+            <div class="header">
+             
+                <a href="tel:0603272616" class="deg">
+                    <i class="fas fa-phone-alt"></i>
+                </a>
+
+                <a href="mailto:bosanka718@gmail.com" class="mail">
+                    <i class="far fa-envelope"></i>
+                </a>
+                <div class="main">
+                    <div class="image">
+                        <div class="hover">
+                            <i class="fas fa-camera fa-2x"></i>
+                        </div>
+                    </div>
+                    <h3 class="name">Amar</h3>
+                    <h3 class="sub-name">Front-end developer</h3>
+                </div>
             </div>
-        </div>
-        <div class="container-bottom">
-            <!-- Name -->
-            <h3>Bosankić Amar</h3>
-            <!-- Job -->
-            <p class="job">Frontend Web Developer</p>
-            <p class="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Error corporis molestiae debitis ration.</p>
-            <!-- Social Media -->
-            <div class="social-media">
-               <a href="https://www.facebook.com/bosankic02/"><i class="fab fa-facebook"></i></a>
-               <a href="https://www.instagram.com/ammarbosankic02/"><i class="fab fa-instagram"></i></a>
-               <a href="https://www.linkedin.com/in/amar-bosankic/"><i class="fab fa-linkedin"></i></a>
+
+            <div class="content">
+                <div class="left">
+                    <div class="about-container">
+                        <h3 class="title">About</h3>
+                        <p class="text">Lorem Ipsum is simply text of the printing and types industry.</p>
+                    </div>
+                    <div class="icons-container">
+                        <a href="#" class="icon">
+                            <i class="fab fa-facebook"></i>
+                        </a>
+                        <a href="#" class="icon">
+                            <i class="fab fa-instagram"></i>
+                        </a>
+                        <a href="#" class="icon">
+                            <i class="fab fa-google-plus-g"></i>
+                        </a>
+                        <a href="#" class="icon">
+                            <i class="fab fa-twitter"></i>
+                        </a>
+                    </div>
+                    <div class="buttons-wrap">
+                        <div class="follow-wrap">
+                            <a href="user.vcf" class="follow">Dodaj u kontakt</a>
+                        </div>
+                      
+                    </div>
+                </div>
             </div>
-            <!-- Add to Contact -->
-            <a href="user.vcf" id="btn">Dodajte u kontakt</a>
         </div>
     </div>
-
-
 </body>
 </html>
