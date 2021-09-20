@@ -3,8 +3,17 @@ VERSION:3.0
 FN;CHARSET=UTF-8:Amar Bosankić
 N;CHARSET=UTF-8:Bosankić;Amar;;;
 GENDER:M
-EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:bosanka718@gmail.com
-EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:bosanka718@icloud.com
-TEL;TYPE=HOME,VOICE:+387603272616
-REV:2021-09-03T10:38:47.895Z
+BDAY:20020812
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:amar@stemhub.ba
+TEL;TYPE=WORK,VOICE:0603272616
+ADR;CHARSET=UTF-8;TYPE=HOME:;;Alije Izetbegovića BB;Živinice;Federacija;75270;Bosna i Hercegovina
+LABEL;CHARSET=UTF-8;TYPE=WORK:Step2Digital
+ADR;CHARSET=UTF-8;TYPE=WORK:;;Ulica oslobođenja BB;Živinice;Federacija;75270;Bosna i Hercegovina
+ROLE;CHARSET=UTF-8:Team Manager
+ORG;CHARSET=UTF-8:STEM Hub
+URL;type=WORK;CHARSET=UTF-8:www.stemhub.ba
+X-SOCIALPROFILE;CHARSET=UTF-8;TYPE=facebook:https://www.facebook.com/bosankic02/
+X-SOCIALPROFILE;CHARSET=UTF-8;TYPE=linkedin:https://www.linkedin.com/in/amar-bosankic/
+X-SOCIALPROFILE;CHARSET=UTF-8;TYPE=instagram:https://www.instagram.com/bosankc/
+REV:2021-09-20T22:00:52.993Z
 END:VCARD
