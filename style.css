@@ -115,16 +115,15 @@ body{
     border: none;
 }
 .company{
-    font-family: 'Cutive Mono', monospace;
     font-weight: 600;
-    font-size: 20px;
+    font-size: 22px;
     margin: 5px 0;
 }
 .sub-name{
-    font-family: 'Cutive Mono', monospace;
     font-size: 1.2rem;
     opacity: .8;
     color: #000;
+    font-weight: 500;
     margin: 10px 0 5px 0;
 }
 
@@ -289,6 +288,15 @@ body{
     body{
         background:#fff;
     }
+    .sub-name{
+        font-size:16px;
+    }
+    .name{
+        font-size: 24px;
+    }
+    .company{
+        font-size:20px;
+    }
     .container{
         padding:0;
         top:0;
@@ -319,6 +327,7 @@ body{
     .follow-wrap{
         margin-top: -80px;
     }
+
 }
 
 @media (max-width: 370px){
