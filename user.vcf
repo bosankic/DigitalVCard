@@ -8,9 +8,9 @@ TEL;TYPE=WORK,VOICE:062600607
 ADR;CHARSET=UTF-8;TYPE=HOME:;;;Živinice;;;
 ORG:Step2Digital
 TITLE:Digital Marketing Manager
-URL;Website:https://Step2Digital.net
-URL;Facebook:https://www.facebook.com/haris.brcaninovic7
-URL;Linkedin:https://www.linkedin.com/in/haris-br%C4%8Daninovi%C4%87-222a011a0/
-URL;Whatsapp:https://api.whatsapp.com/send?phone=38762600607
+URL;TYPE=Website:https://Step2Digital.net
+URL;TYPE=Facebook:https://www.facebook.com/haris.brcaninovic7
+URL;TYPE=Linkedin:https://www.linkedin.com/in/haris-br%C4%8Daninovi%C4%87-222a011a0/
+URL;TYPE=Whatsapp:https://api.whatsapp.com/send?phone=38762600607
 REV:2021-09-25T15:07:55.990Z
 END:VCARD
