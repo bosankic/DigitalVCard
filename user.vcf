@@ -1,13 +1,12 @@
 BEGIN:VCARD
-VERSION:4.0
-PRODID:-//BBros.us llc//bvCard.com//EN
+VERSION:2.1
 N:Bosankic;Amar;;;
 FN:Amar Bosankic
-EMAIL:amar@stemhub.ba
+TEL;CELL:0603272616
+EMAIL;X-Email:amar@stemhub.ba
+ADR;HOME:;;Alije Izetbegovica BB;Zivinice;;75270;Bosnia and Herzegovina
 ORG:Step2Digital
-TEL:0603272616
 Facebook:https://www.facebook.com/bosankic02/
 Instagram:https://www.instagram.com/bosankc/
 Linkedin:https://www.linkedin.com/in/amar-bosankic/
-ADR:;Alije Izetbegovica BB;;Zivinice;;75270;Bosnia and Herzegovina
 END:VCARD
